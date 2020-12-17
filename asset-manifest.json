@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/discord-react/static/css/main.effdb5b2.chunk.css",
+    "main.js": "/discord-react/static/js/main.54a32f28.chunk.js",
+    "main.js.map": "/discord-react/static/js/main.54a32f28.chunk.js.map",
+    "runtime-main.js": "/discord-react/static/js/runtime-main.e215895b.js",
+    "runtime-main.js.map": "/discord-react/static/js/runtime-main.e215895b.js.map",
+    "static/js/2.e8b9df94.chunk.js": "/discord-react/static/js/2.e8b9df94.chunk.js",
+    "static/js/2.e8b9df94.chunk.js.map": "/discord-react/static/js/2.e8b9df94.chunk.js.map",
+    "index.html": "/discord-react/index.html",
+    "static/css/main.effdb5b2.chunk.css.map": "/discord-react/static/css/main.effdb5b2.chunk.css.map",
+    "static/js/2.e8b9df94.chunk.js.LICENSE.txt": "/discord-react/static/js/2.e8b9df94.chunk.js.LICENSE.txt",
+    "static/media/Logo.fff47e76.svg": "/discord-react/static/media/Logo.fff47e76.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e215895b.js",
+    "static/js/2.e8b9df94.chunk.js",
+    "static/css/main.effdb5b2.chunk.css",
+    "static/js/main.54a32f28.chunk.js"
+  ]
+}
